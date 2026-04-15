@@ -9,3 +9,4 @@
 ## Scripts
 
 - `01_eda.R`: A script to perform basic exploratory data analysis.
+- `02_modelling.R`: Create basic models using the cleaned penguins data.
