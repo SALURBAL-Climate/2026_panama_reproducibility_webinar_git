@@ -8,5 +8,6 @@
 
 ## Scripts
 
+- `00_create_data.R`: This script adds the `penguins.csv` file to the data folder.
 - `01_eda.R`: A script to perform basic exploratory data analysis.
 - `02_modelling.R`: Create basic models using the cleaned penguins data.
