@@ -3,6 +3,8 @@
 ## Folders
 
 - `data`: A folder to store the raw and cleaned data.
+- `figures`: Save figures for paper.
+- `models`: Save model objects as `.rds` files.
 
 ## Scripts
 
